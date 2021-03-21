@@ -8,8 +8,19 @@ An audio player using osu! beatmaps, written in Nim.
 This is my first Nim project :)
 
 ## Installing and running
-Slide over to releases and grab a build :)  
-(assuming I have them set up)
+Slide over to releases and grab a build :)
+
+If you're on Arch, install with your favourite AUR helper, or if you don't have one:
+```
+mkdir temp
+cd temp
+wget https://aur.archlinux.org/cgit/aur.git/snapshot/osu-tunes-git.tar.gz
+tar -xzf osu-tunes-git.tar.gz
+cd osu-tunes-git
+makepkg -si
+cd ../..
+rm -rf temp
+```
 ## Building and running
 ### Getting nim
 Install nim on your system and optionally update nimble.
