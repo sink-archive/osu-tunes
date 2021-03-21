@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main" type="NimRunConfiguration" factoryName="Application" MAIN_FILE="$PROJECT_DIR$/OsuTunes.nim" BACKEND="C" COMPILER_PARAMS="-d:ssl" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true">
+    <method v="2">
+      <option name="nim.task.build.to.cache" enabled="true" />
+    </method>
+  </configuration>
+</component>
