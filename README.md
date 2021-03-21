@@ -11,7 +11,7 @@ This is my first Nim project :)
 Slide over to releases and grab a build :)
 
 If you're on Arch, install with your favourite AUR helper, or if you don't have one:
-```
+```sh
 mkdir temp
 cd temp
 wget https://aur.archlinux.org/cgit/aur.git/snapshot/osu-tunes-git.tar.gz
