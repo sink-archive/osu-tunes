@@ -11,7 +11,7 @@ var mapId = stdin.readLine()
 var dlLink = "https://beatconnect.io/b/$#" % [ mapId ]
 
 # download map
-terminal.setForegroundColor(ForegroundColor.fgGreen)
+terminal.setForegroundColor(ForegroundColor.fgDefault)
 echo("Downloading map $#... Please wait." % [ mapId ])
 var client = newHttpClient()
 var content = client.getContent(dlLink)
