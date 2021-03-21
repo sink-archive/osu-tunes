@@ -1,7 +1,5 @@
 # osu!tunes
-[![Release](https://github.com/cainy-a/osu-tunes/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/cainy-a/osu-tunes/actions/workflows/release.yml)
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/osu-tunes.svg)](https://repology.org/project/osu-tunes/versions)
+[![Release](https://github.com/cainy-a/osu-tunes/actions/workflows/release.yml/badge.svg?branch=master)](https://github.com/cainy-a/osu-tunes/actions/workflows/release.yml) [![AUR package](https://repology.org/badge/version-for-repo/aur/osu-tunes.svg)](https://repology.org/project/osu-tunes/versions)
 
 An audio player using osu! beatmaps, written in Nim.
 
